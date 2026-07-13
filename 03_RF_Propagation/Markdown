@@ -1,0 +1,21 @@
+# RF Propagation Modeling
+
+## Overview
+
+This laboratory modeled Free Space Path Loss (FSPL) using Python. The project analyzed how signal attenuation increases with distance and visualized the results using graphs.
+
+## Technologies
+
+- Python
+- NumPy
+- Matplotlib
+
+## Skills Developed
+
+- RF propagation analysis
+- Python programming
+- Data visualization
+
+## Learning Outcome
+
+Understanding path loss is important when designing reliable wireless communication systems and planning network coverage.
