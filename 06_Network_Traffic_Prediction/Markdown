@@ -1,0 +1,25 @@
+# Network Traffic Prediction
+
+## Overview
+
+This laboratory compared ARIMA, Linear Regression, and Long Short-Term Memory (LSTM) models for predicting future network traffic using simulated telecommunications data.
+
+## Technologies
+
+- Python
+- Pandas
+- Scikit-learn
+- PyTorch
+- ARIMA
+- LSTM
+
+## Skills Developed
+
+- Time-series forecasting
+- Feature engineering
+- Machine learning
+- Deep learning
+
+## Learning Outcome
+
+The project demonstrated how AI models can improve traffic forecasting for next-generation communication networks.
