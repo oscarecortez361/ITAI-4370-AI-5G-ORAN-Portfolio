@@ -1,0 +1,22 @@
+# Edge Computing and TinyML
+
+## Overview
+
+This laboratory explored deploying machine learning models on edge devices through model optimization techniques including pruning, quantization, and knowledge distillation.
+
+## Technologies
+
+- TensorFlow
+- TensorFlow Lite
+- TinyML
+- Python
+
+## Skills Developed
+
+- Edge AI
+- Model optimization
+- Embedded AI deployment
+
+## Learning Outcome
+
+This project demonstrated how AI models can be compressed while maintaining performance for deployment on resource-constrained devices.
